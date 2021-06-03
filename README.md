@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Yes I am that Jimmy5541 on Roblox, currently not working on any projects yet.
 <!--
 **Jimmy5541/Jimmy5541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
