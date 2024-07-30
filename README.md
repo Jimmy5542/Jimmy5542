@@ -1,6 +1,7 @@
-### Hi there 👋
+## About Jimmy5541
 
-Yes I am that Jimmy5541 on Roblox, currently not working on any projects yet.
+I'm currently known as Jimmy5542 but you can call me with either name. He/they
+
 <!--
 **Jimmy5541/Jimmy5541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Where you can find me
+- [X](https://x.com/jimmy5542)
+- [Youtube](https://youtube.com/@Jimmy_5542)
+- [Roblox](https://roblox.com/users/335404920/profile)
