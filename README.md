@@ -1,6 +1,12 @@
-## About Jimmy5541
+# Hello!! 
 
-I'm currently known as Jimmy5542 but you can call me with either name. He/they
+I'm currently known as Jimmy5542 but you can call me with either name. 
+My pronouns are he/they.
+
+## About Me
+- I am a random person on the Internet.
+- I have a couple of lovely and silly friends.
+- I appeared in that one YouTube video that is very cringe (to me).
 
 <!--
 **Jimmy5541/Jimmy5541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
